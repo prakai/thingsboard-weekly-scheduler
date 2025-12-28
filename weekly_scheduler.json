@@ -3,7 +3,7 @@
   "name": "Weekly Scheduler",
   "deprecated": false,
   "image": null,
-  "description": "Weekly Scheduler - Example: [1,0111110,17,35,10,1] = Enabled for Sun,Mon,Tue,Wed,Thu,Fri,Sat at 17:35 with 10 minutes, ON",
+  "description": "Weekly Scheduler - Example: [1,0111110,17,35,10,1] = Enabled for Sun,Mon,Tue,Wed,Thu, and Fri at 17:35 with 10 minutes, ON",
   "descriptor": {
     "type": "latest",
     "sizeX": 9,
