@@ -1,4 +1,4 @@
-# thingsboard-weekly-scheduler
+# ThingsBoard Weekly Wcheduler
 The Weekly Scheduler Widget for ThingsBoard
 
 # Widget features
