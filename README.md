@@ -1,6 +1,8 @@
 # ThingsBoard Weekly Wcheduler
 The Weekly Scheduler Widget for ThingsBoard
 
+![ThingsBoard Weekly Scheduler](weekly_scheduler.png)
+
 # Widget features
 * Created and tested on ThingsBoard v4.1.0
 * Supports **Shared Attributes**
