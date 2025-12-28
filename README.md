@@ -22,7 +22,7 @@ Example
 * [1,0000010,17,30,10,0] - This scheduler is enabled; the entity state is set to OFF for 10 minutes at 17:30 on Fridays (to power off the device before the weekend)
 
 # Usage
-* Import weekly_scheduler.json to the ThingsBoard Widgets library
+* Import **weekly_scheduler.json** to the ThingsBoard Widgets library
 * Add the widget to a dashboard
 * Select the Entity and the Shared Attribute to use as the data key
 
