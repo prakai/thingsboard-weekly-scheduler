@@ -18,8 +18,8 @@ The Weekly Scheduler Widget for ThingsBoard
 * **S**: State: 1 (ON) / 0 (OFF)
 
 Example
-* [1,0111110,10,00,30,1] - This scheduler is enabled; the entity state is set to ON for 30 minutes at 10:00 on weekdays
-* [1,0000010,17,30,10,0] - This scheduler is enabled; the entity state is set to OFF for 10 minutes at 17:30 on Fridays (to power off the device before the weekend)
+* 1,0111110,10,00,30,1 - This scheduler is enabled; the entity state is set to ON for 30 minutes at 10:00 on weekdays
+* 1,0000010,17,30,10,0 - This scheduler is enabled; the entity state is set to OFF for 10 minutes at 17:30 on Fridays (to power off the device before the weekend)
 
 # Usage
 * Import **weekly_scheduler.json** to the ThingsBoard Widgets library
