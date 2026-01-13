@@ -23,6 +23,6 @@ Example
 
 # Usage
 * Import **weekly_scheduler.json** to the ThingsBoard Widgets library
-* Add the widget to a dashboard
+* Add the **Weekly Scheduler** widget to a dashboard
 * Select the Entity and the Shared Attribute to use as the data key
 
