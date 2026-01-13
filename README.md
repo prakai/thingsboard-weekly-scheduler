@@ -9,7 +9,7 @@ The Weekly Scheduler Widget for ThingsBoard
 * Data format is a string/text
 
 # Data key format
-**[E,SMTWTFS,HH,MM,P,S]**
+**E,SMTWTFS,HH,MM,P,S**
 * **E**: Enable/Disable this scheduler: 1 (Enabled) / 0 (Disabled)
 * **SMTWTFS**: Days of the week (Sun, Mon, Tue, Wed, Thu, Fri, Sat). Use 1 to select and 0 to deselect
 * **HH**: Hour (0-23), 24-hour format
